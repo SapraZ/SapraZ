@@ -7,4 +7,5 @@ Language| When| Skill
 *C#* | `2015` | Skilled
 *Python* | `2016` | Okay
 *JS* | `2019` | Don't Ask
+*Powershell* | `2020` | Beginner
 
