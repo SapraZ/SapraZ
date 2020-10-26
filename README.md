@@ -2,8 +2,9 @@
 ## CS Student
 ![GIF](https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif)
 ---
-# Languages
-* C#
-* Python
-* Js
+Language| When| Skill
+--- | --- | ---
+*C#* | `2015` | Skilled
+*Python* | `2016` | Okay
+*JS* | `2019` | Don't Ask
 
