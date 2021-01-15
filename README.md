@@ -2,7 +2,7 @@
 
 ## A Swedish CS Student
 
-![GIF](https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif)
+![GIF](https://media1.tenor.com/images/bf49752ad7023e5dbd808f6600b246cc/tenor.gif?itemid=16017699)
 ---
 
 | Language     | When   | Skill     |
