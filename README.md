@@ -1,3 +1,3 @@
 # SapraZ
 
-## A Swedish CS Student
+## Retarted Dev
